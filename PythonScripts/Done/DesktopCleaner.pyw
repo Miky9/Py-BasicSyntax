@@ -31,10 +31,8 @@ for x in lis:                                  #[filename for filename in files 
     print(x)
     shutil.move(x, destinationdir2)
 
-    # refreshing desktop after operation
     def menu_background_activate_cb(self, menu, file):
         os.system("xte 'keydown F5' 'keyup F5'")
-
 
     # 'C:\\Users\\Ryu\\Desktop\\aaa'
 
