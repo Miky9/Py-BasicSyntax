@@ -1,0 +1,9 @@
+1.	Pro  zadané  èíslo  vypoèítejte  posloupnost  vygenerovaných  èísel
+a  tuto posloupnost zobrazte graficky (podobnì jako na obrázku 3.1 A).
+2.	Pro  èísla  od  1  do  n vypoèítejte,  kolik  krokù  potøebujeme,  než  se  do-
+staneme do jednièky. Hodnoty vykreslete grafem – pro malé  n vypadá  vý sledný graf vcelku náhodnì,
+pro velké n se však objeví zajímavástruk- tura (viz obrázek 3.1 B).
+3.	Podobnì  jako pøedchozí bod, nezobrazujte však poèet krokù , ale maxi-
+mální hodnotu, na kterou v prù bìhu vý poètu narazíme (napø. pro zaèátek v èísle 7 je touto maximální hodnotou 52).
+4.	Pro které èíslo od 1 do 100 000 potøebujeme nejvíce krokù , než dospìjeme
+do jednièky? Jaké  je maximální èíslo, které  se v pøíslušné  posloupnosti objeví?

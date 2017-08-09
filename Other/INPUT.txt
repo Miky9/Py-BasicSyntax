@@ -1,0 +1,9 @@
+1.	Pro  zadane´  c¡´?slo  vypoc¡´?tejte  posloupnost  vygenerovany´ch  c¡´?sel
+a  tuto posloupnost zobrazte graficky (podobne¡ jako na obra´zku 3.1 A).
+2.	Pro  c¡´?sla  od  1  do  n vypoc¡´?tejte,  kolik  kroku?  potr¡ebujeme,  nez¡  se  do-
+staneme do jednic¡ky. Hodnoty vykreslete grafem – pro male´  n vypada´   vy´ sledny´ graf vcelku na´ hodne¡,
+pro velke´ n se vs¡ak objev´? zaj´?mava´ struk- tura (viz obra´ zek 3.1 B).
+3.	Podobne¡  jako pr¡edchoz´? bod, nezobrazujte vs¡ak poc¡et kroku? , ale maxi-
+ma´ ln´? hodnotu, na kterou v pru? be¡hu vy´ poc¡tu naraz´?me (napr¡. pro zac¡a´ tek v c¡´?sle 7 je touto maxima´ ln´? hodnotou 52).
+4.	Pro ktere´ c¡´?slo od 1 do 100 000 potr¡ebujeme nejv´?ce kroku? , nez¡ dospe¡jeme
+do jednic¡ky? Jake´  je maxima´ ln´? c¡´?slo, ktere´  se v pr¡´?slus¡ne´  posloupnosti objev´??
